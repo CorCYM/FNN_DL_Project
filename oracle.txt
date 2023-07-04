@@ -1,0 +1,9 @@
+oracle
+
+DB 이름 ctp
+
+
+테이블 member
+컬럼 MEM_ID,MEM_PASS,MEM_NAME,MEM_EMAIL,MEM_IMG,MEM_CRT
+테이블 PHOTO
+컬럼 REQ_NO,F_MEM_ID,MEM_PHOTO,CLT_PHOTO
